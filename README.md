@@ -5,6 +5,13 @@ Welcome to the Web Layout Lab! In this lab, you will practice building a respons
 
 The goal of this lab is to give you hands-on experience with the grid system, responsive design, and Bootstrap components like navigation bars, cards, and footers.
 
+## Git Setup
+- Fork this repository
+- Clone to your local machine : `https://github.com/onja-org/w2_html_layout.git`
+- Navigate into the project directory: `cd w2_html_layout`
+- Create a new branch for your task: `git checkout -b your-branch-name`
+- Stage and commit your changes, and push to github 
+
 ## Lab Guide: Tasks and Steps
 Follow the instructions below to build your webpage using Bootstrap. This lab is meant to help you learn and experiment with different aspects of Bootstrap's features.
 
